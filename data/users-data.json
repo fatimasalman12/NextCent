@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "password456"
+    },
+    {
+      "id": "3",
+      "name": "Carol Martinez",
+      "email": "carol.martinez@example.com",
+      "password": "password789"
+    },
+    {
+      "id": "4",
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "password": "password101"
+    },
+    {
+      "id": "5",
+      "name": "Eve Williams",
+      "email": "eve.williams@example.com",
+      "password": "password202"
+    },
+    {
+      "id": "6",
+      "name": "Frank Taylor",
+      "email": "frank.taylor@example.com",
+      "password": "password303"
+    },
+    {
+      "id": "7",
+      "name": "user 1",
+      "email": "u1@gmail.com",
+      "password": "12345"
+    }
+  ]
+  

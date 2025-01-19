@@ -33,7 +33,7 @@ function LoginForm(props) {
               <Button>Login</Button>
               </div>
               <p className="text-white text-sm ml-2 mt-3 text-center">
-                Don't have an account?
+                Dont have an account?
                 <a href="/signup" className="text-white underline">
                   Signup
                 </a>

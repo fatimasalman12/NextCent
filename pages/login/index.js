@@ -27,7 +27,7 @@ function LoginPage() {
         setData(data);
         if (data.message === 'Login successful') {
           setIsSuccess(true);
-          setIsWarning(false); // Hide warning if successful
+          setIsWarning(false); 
           setTimeout(() => {
             router.push('/login/homepage'); // Redirects to /login/homepage after 3 seconds
           }, 4000); // Redirect on success
